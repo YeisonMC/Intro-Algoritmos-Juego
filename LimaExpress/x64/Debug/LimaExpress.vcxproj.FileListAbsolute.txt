@@ -1,0 +1,2 @@
+C:\Users\YeisonMC\Desktop\Proyectos\C++\Inicios\VideoJuegos\Nueva carpeta\LimaExpress\LimaExpress\x64\Debug\LimaExpress.vcxproj.AssemblyReference.cache
+C:\Users\YeisonMC\Desktop\Proyectos\C++\Inicios\VideoJuegos\Nueva carpeta\LimaExpress\LimaExpress\x64\Debug\LimaExpress.vcxproj.SuggestedBindingRedirects.cache
