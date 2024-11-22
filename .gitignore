@@ -1,0 +1,11 @@
+# Excluir archivos y carpetas generados por Visual Studio
+.vs/*
+
+/LimaExpress.exe.metagen
+/LimaExpress.pdb
+/LimaExpress.vcxproj.user
+/LimaExpress.vcxproj
+/LimaExpress.vcxproj.filters
+
+# Ignorar carpetas de compilación
+/LimaExpress/x64/*
